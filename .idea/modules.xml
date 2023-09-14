@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/adamservices/adamservices.iml" filepath="$PROJECT_DIR$/adamservices/adamservices.iml" />
-      <module fileurl="file://$PROJECT_DIR$/adamservices/customer/customer.iml" filepath="$PROJECT_DIR$/adamservices/customer/customer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mircoservices.iml" filepath="$PROJECT_DIR$/.idea/mircoservices.iml" />
     </modules>
   </component>
